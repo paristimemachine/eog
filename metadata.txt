@@ -1,0 +1,8 @@
+[general]
+name=EOG
+qgisMinimumVersion=3.0
+description=Outil pour extraire des objets géographiques d'une image ou d'un raster. Il est indispensable d'avoir installé la boite à outil Orfeo Tool Box (OTB) pour faire fonctionner l'outil. Précisez les couches de sortie dans un répertoire afin que le processus se déroule bien. Pour l'étape 2 il suffit à l'utilisateur de sélectionner dans la couche vecteur (résultat de la segmentation) les objets qu'il souhaite extraire. L'outil créera une couche géographique de ces objets. L'étape 3 est un nettoyage de la couche résultante, testez différents paramétrages pour le rendu que vous souhaitez.  
+version=1.0
+author=Adrien PAGET
+email=
+category=Analysis
