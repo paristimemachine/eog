@@ -2,7 +2,7 @@
 
 ## Description
 
-blabla
+blabla 22222
 ## Fonctionnalités
 
 - Acquisition et enregistrement des signaux EOG
