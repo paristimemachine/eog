@@ -25,8 +25,9 @@ Outil pour extraire des objets géographiques d'une image ou d'un raster (en cou
 
 ## Prérequis
 
--Orfeo ToolBox : https://www.orfeo-toolbox.org/download/
-
+-Orfeo ToolBox : 
+https://www.orfeo-toolbox.org/download/
+https://www.orfeo-toolbox.org/CookBook/QGISInterface.html#plugin-installation
 ## Contribution
 
 Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre une pull request.
