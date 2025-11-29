@@ -33,7 +33,7 @@ Les contributions sont les bienvenues ! Veuillez ouvrir une issue ou soumettre u
 
 ## Licence
 
-Libre
+GPL v2
 
 ## Contact
 
